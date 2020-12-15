@@ -1,4 +1,4 @@
 # Hello-World
 My first repo
-Hello guys!
-I like programming.
+Here is my first repository on this account. I created it entirely within GitHub interface using the instructions located at: 
+https://guides.github.com/activities/hello-world/
